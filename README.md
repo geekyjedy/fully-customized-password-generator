@@ -17,5 +17,5 @@
 
 ![badge](https://img.shields.io/badge/-Live%20project%20link-green)
 
-- ## [Live Project Here](https://geekyjedy-pass.netlify.app/ "Netlify Live Project Link")
+## [Live Project Here](https://geekyjedy-pass.netlify.app/ "Netlify Live Project Link")
 
